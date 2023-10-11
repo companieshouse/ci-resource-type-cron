@@ -1,0 +1,1 @@
+# ci-resource-type-cron
